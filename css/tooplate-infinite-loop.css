@@ -268,6 +268,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
+  background-color: #3388cc;
   background-image: url(../img/infinite-loop-02.jpg);
   background-size: cover;
   background-repeat: no-repeat;
